@@ -106,11 +106,11 @@ body {
   background-position: left;
 }
 
-.skill-html {
+.skills-html {
   background-image: url("img/icon-html.svg");
 }
 
-.skill-css {
+.skills-css {
   background-image: url("img/icon-css.svg");
 }
 
@@ -193,7 +193,12 @@ body {
   transition: all .5s linear;
   animation: bad 1s infinite;
 }
-@keyframes bad{
+
+.new:hover {
+  transform: rotate(360deg);
+}
+
+/* @keyframes bad{
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
-}
+} */
