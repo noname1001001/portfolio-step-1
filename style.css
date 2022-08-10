@@ -34,8 +34,8 @@ img {
 }
 
 .page-header a {
-  display: inline-block;
-  margin-bottom: 20px;
+  /* display: inline-block;
+  margin-bottom: 20px; */
   margin-left: 56px;
   color: #fea18d;
   text-decoration: none;
@@ -146,11 +146,11 @@ img {
 }
 
 .skills-c {
-  background-image: url("img/icon-c.png");
+  background-image: url("img/icon-c.svg");
 }
 
 .skills-bash {
-  background-image: url("img/icon-bash.png");
+  background-image: url("img/icon-bash.svg");
 }
 
 .level {
@@ -210,8 +210,8 @@ img {
 }
 
 .page-footer a {
-  display: inline-block;
-  margin-bottom: 20px;
+  /* display: inline-block;
+  margin-bottom: 20px; */
   margin-left: 56px;
   color: #fea18d;
   text-decoration: none;
