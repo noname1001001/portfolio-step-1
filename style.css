@@ -11,6 +11,12 @@ body {
   background-position: top center;
 }
 
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
 img {
   max-width: 100%;
   height: auto;
