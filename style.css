@@ -211,8 +211,8 @@ img {
 }
 
 .page-footer a {
-  /* display: inline-block;
-  margin-bottom: 20px; */
+  display: inline-block;
+  margin-bottom: 20px;
   margin-left: 56px;
   color: #fea18d;
   text-decoration: none;
