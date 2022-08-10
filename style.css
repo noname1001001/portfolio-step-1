@@ -34,8 +34,8 @@ img {
 }
 
 .page-header a {
-  /* display: inline-block;
-  margin-bottom: 20px; */
+  display: inline-block;
+  margin-bottom: 20px;
   margin-left: 56px;
   color: #fea18d;
   text-decoration: none;
@@ -151,6 +151,7 @@ img {
 
 .skills-bash {
   background-image: url("img/icon-bash.svg");
+  background-size: 24px;
 }
 
 .level {
